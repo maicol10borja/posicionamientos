@@ -1,7 +1,7 @@
 h1,p,div{
     
     text-align: left;
-    color: cornflowerblue;
+    color:aquamarine;
     padding: 10px;
     width: 50%;
     display: inline;
@@ -15,7 +15,7 @@ h2, div{
     display: inline;
 }
 a{
-    border: 1px solid red;
+    border: 1px solid blue;
     text-align: right;
     display: inline;
 }
@@ -25,7 +25,7 @@ img{
 }
 
 div.menu{
-    margin-left: 900px;
+    margin-left: 500px;
 }
 
 
