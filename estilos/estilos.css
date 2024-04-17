@@ -1,3 +1,6 @@
+header{
+    border: 1px solid green;
+}
 h1,p,div{
     
     text-align: left;
@@ -14,21 +17,67 @@ h2, div{
     width: 50%;
     display: inline;
 }
-a{
+
+   
+    a{
     border: 1px solid blue;
     text-align: right;
-    display: inline;
+    display:inline;
 }
+
+
 img{
     height: 50px;
     width: 50px;
 }
 
-div.menu{
-    margin-left: 500px;
+.cr7{
+ 
+    height: 100%;
+    width: 1040px;
+
 }
 
+div.menu{
+    margin-left: 580px;
+}
 
+h3,div{
+    text-align:justify;
+    color:black;
+    padding: 10px;
+    width: 50%;
+
+}
+
+body{
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    background-color:brown;
+}
+
+.px{ 
+    width: 200px;
+    height: 100%;
+    margin-right: 20px;
+}
+.pl{
+    width: 200px;
+    height: 100%;
+    margin-right: 20px;
+}
+.pc{
+ width: 200px;
+    height: 100%;
+    margin-right: 20px;
+}
+
+.pz{
+    width: 200px;
+    height: 100%;
+    margin-right: 20px;
+}
 
 
 
